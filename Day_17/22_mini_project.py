@@ -18,7 +18,7 @@ plt.bar(students, attendance)
 plt.xlabel("Students")
 plt.ylabel("Attendance")
 
-plt.subplot(2, 2, 3)
+plt.subplot(2, 2,3)
 plt.title("Scatter Plot")
 plt.scatter(students, marks)
 plt.xlabel("Students")
